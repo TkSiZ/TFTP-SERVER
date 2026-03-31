@@ -87,8 +87,6 @@ Para iniciar o servidor:
 1. Instale as dependências (preferencialmente utilizando `uv`):
    ```bash
    uv sync
-   # ou alternativamente:
-   pip install -r requirements.txt
    ```
 2. Inicialize o servidor rodando pelo terminal raiz:
    ```bash
